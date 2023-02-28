@@ -11839,3 +11839,11 @@ h3.mb-0 {
 .subheading.mb-3 {
   color: #0000ff;
 }
+
+audio.mx-auto.fixed-bottom {
+  margin-bottom: 20px;
+}
+
+audio::-webkit-media-controls-panel {
+  background-color: blue;
+}
