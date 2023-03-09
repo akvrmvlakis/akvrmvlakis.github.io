@@ -11847,3 +11847,7 @@ audio.mx-auto.fixed-bottom {
 audio::-webkit-media-controls-panel {
   background-color: blue;
 }
+
+span.d-block.d-lg-none {
+  font-weight: bold;
+}
